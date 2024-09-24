@@ -1,6 +1,6 @@
 # MicroGensokyo_online
 
-可以进行局域网联机对战的微幻。
+可以进行局域网联机对战的游戏软件《微型幻想乡》。
 
 演示视频地址：https://www.bilibili.com/video/BV1P24y1M75z/
 
